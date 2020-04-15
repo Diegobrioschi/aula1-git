@@ -17,6 +17,7 @@ public class Main {
 			int terceiro = i * i * i;
 			System.out.printf("%d %d %d%n", primeiro, segundo, terceiro);
 		}
+			System.out.println("Boa Boa");
 		sc.close();
 	}
 
